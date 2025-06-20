@@ -2,15 +2,13 @@
 
 - 🤯 Currently using **GitHub**
 
-- 😴 I create **.html**
+- 😴 I develop **.html**
 
-- 🫠 I develop **.java**
+- 🫠 I code **.cpp**
 
 - 🤧 Ask me about **nothing**
 
 - 🫥 Talk to me **nitinbhagatxyz@gmail.com**
-
-- 💩 Fun fact **- Me**
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a4appie" alt="a4appie" /></a> </p> <br>
