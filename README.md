@@ -72,7 +72,4 @@
 
 <br clear="both">
 
-
-<img src="https://raw.githubusercontent.com/a4appIe/a4appIe/output/snake.svg" alt="Snake animation" />
-
 ###
